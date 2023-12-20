@@ -11,10 +11,10 @@ The repository currently contains the following projects:
 - PLA
 - Logistic Regression
 
-  **Machine Learning Clustering Model:**
+**Machine Learning Clustering Model:**
 - K-Means Clustering
 
-  **Other model :** 
+**Other model :** 
 - Gradient descent
 - and more ?? I guess
 
