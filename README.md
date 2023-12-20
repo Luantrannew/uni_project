@@ -7,10 +7,14 @@ The repository currently contains the following projects:
 **Machine Learning Classification Model:** A machine learning model trained to categorize images of animals using 4 different classification algorithms:
 
 - K-Nearest Neighbors (KNN)
-- K-Means Clustering
-- Logistic Regression
 - Naive Bayes Classifier -comparison of algorithms and performance metrics
-- PLA 
+- PLA
+- Logistic Regression
+
+  **Machine Learning Clustering Model:**
+- K-Means Clustering
+
+  **Other model :** 
 - Gradient descent
 - and more ?? I guess
 
